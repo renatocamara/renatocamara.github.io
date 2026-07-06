@@ -1,0 +1,27 @@
+disabled = false
+locale = "en"
+label = "English"
+weight = 1
+title = "Renato Camara"
+
+[params]
+  displayName = "EN"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2 January 2006"
+  # logo = "img/logo.png"
+  # secondaryLogo = "img/secondary-logo.png"
+  # description = "My awesome website"
+  # copyright = "Copy, _right?_ :thinking_face:"
+
+[params.author]
+  name = "Renato Camara"
+  email = ""
+  image = "author.jpg"
+  imageQuality = 96
+  headline = "Senior Cloud Solution Architect | Azure | AI | GitHub"
+  bio = "Helping organizations modernize their infrastructure and accelerate AI adoption on Microsoft Azure."
+  links = [
+    { linkedin = "https://www.linkedin.com/in/renatocamara" },
+    { github = "https://github.com/renatocamara" }
+  ]
