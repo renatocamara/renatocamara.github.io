@@ -1,4 +1,1 @@
-baseURL = 'http://localhost:1313/'
-languageCode = 'en-us'
-title = 'Renato Camara'
-theme = 'blowfish'
+theme = "blowfish"
