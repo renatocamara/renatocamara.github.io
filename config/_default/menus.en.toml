@@ -21,11 +21,6 @@
   pageRef = "projects"
   weight = 40
 
-[[main]]
-  name = "Blog"
-  pageRef = "posts"
-  weight = 50
-
 # -- Footer Menu --
 
 [[footer]]
@@ -37,8 +32,3 @@
   name = "Experience"
   pageRef = "experience"
   weight = 20
-
-[[footer]]
-  name = "Blog"
-  pageRef = "posts"
-  weight = 30
