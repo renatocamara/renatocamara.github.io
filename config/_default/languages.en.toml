@@ -16,12 +16,13 @@ title = "Renato Camara"
 
 [params.author]
   name = "Renato Camara"
-  email = ""
+  email = "camarabox@gmail.com"
   image = "author.jpg"
   imageQuality = 96
   headline = "Senior Cloud Solution Architect | Azure | AI | GitHub"
-  bio = "Helping organizations modernize their infrastructure and accelerate AI adoption on Microsoft Azure."
+  bio = "28 years in IT. Helping enterprises design AI-driven, cloud-native solutions on Microsoft Azure — from architecture design sessions to production."
   links = [
     { linkedin = "https://www.linkedin.com/in/renatocamara" },
-    { github = "https://github.com/renatocamara" }
+    { github = "https://github.com/renatocamara" },
+    { email = "mailto:camarabox@gmail.com" }
   ]
