@@ -5,6 +5,9 @@ summary: "High-impact Oracle Cloud migration recognized at Oracle OpenWorld as a
 showAuthor: false
 showReadingTime: false
 showWordCount: false
+excludeSearch: true
+sitemap:
+  disable: true
 tags: ["Oracle Cloud", "Migration", "Customer Success"]
 ---
 

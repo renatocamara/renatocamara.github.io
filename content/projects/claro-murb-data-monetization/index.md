@@ -5,6 +5,9 @@ summary: "Trusted advisor engagement delivering 80% cost savings and a new reven
 showAuthor: false
 showReadingTime: false
 showWordCount: false
+excludeSearch: true
+sitemap:
+  disable: true
 tags: ["Oracle Cloud", "Data", "Customer Success"]
 ---
 

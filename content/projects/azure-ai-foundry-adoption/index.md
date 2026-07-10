@@ -5,6 +5,9 @@ summary: "Leading enterprise manufacturing customers in adopting Azure AI Foundr
 showAuthor: false
 showReadingTime: false
 showWordCount: false
+excludeSearch: true
+sitemap:
+  disable: true
 tags: ["Azure", "AI", "Azure AI Foundry"]
 ---
 
