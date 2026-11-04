@@ -150,7 +150,7 @@ showTableOfContents: true
 <div class="cert-grid">
 
 <div class="cert-card">
-  <img src="https://images.credly.com/size/340x340/images/b81c1cec-da9d-4587-976c-ad8562f85e95/blob" alt="Microsoft Certified Trainer (MCT) 2026 badge" loading="lazy">
+  <img src="https://images.credly.com/size/340x340/images/f29d2495-f09f-4cb9-a870-b2854f78ff4a/blob" alt="Microsoft Certified Trainer (MCT) 2026 badge" loading="lazy">
   <div class="cert-info">
     <span class="cert-name">Microsoft Certified Trainer (MCT) 2026</span>
     <span class="cert-meta">Issued May 2026 · Active</span>
