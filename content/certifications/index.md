@@ -159,6 +159,7 @@ showTableOfContents: true
 </div>
 
 </div>
+
 ### Microsoft Certified Trainer
 
 <div class="cert-grid">
