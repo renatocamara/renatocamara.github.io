@@ -145,12 +145,26 @@ showTableOfContents: true
 
 </div>
 
+### GitHub certifications
+
+<div class="cert-grid">
+
+<div class="cert-card">
+  <img src="/images/certifications/github-copilot.png" alt="GitHub Copilot certification badge" loading="lazy">
+  <div class="cert-info">
+    <span class="cert-name">GitHub Copilot</span>
+    <span class="cert-meta">Issued Nov 2026</span>
+    <a href="https://learn.microsoft.com/api/credentials/share/en-us/renatocamara/54BD852BE7FECADD" target="_blank">Verify credential ↗</a>
+  </div>
+</div>
+
+</div>
 ### Microsoft Certified Trainer
 
 <div class="cert-grid">
 
 <div class="cert-card">
-  <img src="https://images.credly.com/size/340x340/images/f29d2495-f09f-4cb9-a870-b2854f78ff4a/blob" alt="Microsoft Certified Trainer (MCT) 2026 badge" loading="lazy">
+  <img src="/images/certifications/mct-2026.png" alt="Microsoft Certified Trainer (MCT) 2026 badge" loading="lazy">
   <div class="cert-info">
     <span class="cert-name">Microsoft Certified Trainer (MCT) 2026</span>
     <span class="cert-meta">Issued May 2026 · Active</span>
